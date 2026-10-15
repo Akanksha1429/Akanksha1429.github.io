@@ -12,7 +12,7 @@ const SITE = {
 };
 
 const STAGES = [ // newest first
-  { id: 's4', when: 'June 2026 – present', place: 'Bengaluru', title: 'I.T Analyst, Grade C2',
+  { id: 's4', when: 'June 2026 – present', place: 'Bengaluru', title: 'DevOps Engineer',
     org: 'TCS · Cloud Infrastructure team', tag: 'Current chapter', run: true,
     pipe: ['TCS', '2026 – now', 'Running · Cloud Infrastructure'],
     points: ['Onboarded into the Cloud Infrastructure team and upskilling on the practices and tooling behind ongoing platform and infrastructure work.',
